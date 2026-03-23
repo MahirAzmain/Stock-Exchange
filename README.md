@@ -1,4 +1,4 @@
-Database Project
+# Database Project
 
 <img width="707" alt="Screenshot 2024-04-22 at 7 17 43 AM" src="https://github.com/user-attachments/assets/be9ea66b-5dd2-461c-b41c-9db54b088707">
 
@@ -16,4 +16,8 @@ Database Project
 
 
 <img width="709" alt="Screenshot 2024-04-22 at 7 19 10 AM" src="https://github.com/user-attachments/assets/fa3f1f33-9391-43a5-abe0-69ae24cd238a">
+
+# Entity Relationship Diagram (ERD)
+
+<img width="1430" height="944" alt="Picture 1" src="https://github.com/user-attachments/assets/7430b5fe-3ef1-44d9-b89d-a7c4f44fcac6" />
 
